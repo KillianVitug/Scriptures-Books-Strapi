@@ -1,0 +1,16 @@
+{
+    "name": "jaja/ipt10-strapi",
+    "autoload": {
+        "psr-4": {
+            "Jaja\\Ipt10Strapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Killian Vitug"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
